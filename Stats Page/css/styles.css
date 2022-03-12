@@ -140,7 +140,7 @@ body {
 }
 
 .grid__item img {
-  object-fit: contain;
+  object-fit: none;
 }
 
 /* footer */
